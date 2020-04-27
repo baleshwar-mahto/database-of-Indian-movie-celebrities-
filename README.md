@@ -1,2 +1,2 @@
-# database-of-Indian-movie-celebrities-
+# database-of-Indian-movie-celebrities
 Created for Bipolar Factory  Assignment
